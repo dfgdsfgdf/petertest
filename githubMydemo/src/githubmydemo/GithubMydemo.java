@@ -17,6 +17,7 @@ public class GithubMydemo {
     public static void main(String[] args) {
         System.out.println("Dette er en test fra Peter");
         System.out.println("dette er en ny tilføjelse");
+         System.out.println("Tue");
     }
     
 }
